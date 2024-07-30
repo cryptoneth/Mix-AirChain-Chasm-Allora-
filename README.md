@@ -180,6 +180,9 @@ go run cmd/main.go keys junction --accountName mySequencerAccount --accountPath 
 ```
 
 سایت پایین کم فاست میده . از دیسکورد بگیرید تو چنل Switchyard Faucet
+
+
+
 get facuet for airchain address, on this site https://airchains.faucetme.pro/
 
 Initiate Prover
