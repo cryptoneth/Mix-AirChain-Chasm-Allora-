@@ -162,11 +162,6 @@ Setup Tracker Component
 
 
 برای ساخت کیف دو کامند وجود داره . یا اگر از قبل ولتی دارید . یا اگر میخواید جدید بسازید
-there are two paths here:
-
-if you participated in the testnet campaign before and want to use your previous tracker address you should use this command:
-
-    just replace your-mnemonic-phrase (address with air...)
 
 اگر از قبل ولت دارید
 
