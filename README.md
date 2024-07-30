@@ -124,11 +124,12 @@ Restart evmosd service
 
 sudo systemctl restart evmosd
 
-recheck the service log to make sure it's running properly
 
 sudo journalctl -u evmosd -f --no-hostname -o cat
 ```
 کنترل + سی + بزنید
+
+
 Setup EigenDA Keys
 
 Download the Binary to Generate Keys
