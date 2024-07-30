@@ -160,19 +160,19 @@ go run cmd/main.go init --daRpc "disperser-holesky.eigenda.xyz" --daKey "<eigen-
 
 Setup Tracker Component
 
+****************************************** اینجارو حواستون باشه تو ویدیو قاطی نکنید . یکی از کامند های زیر رو باید بزنید . یا ساخت ولت . یا ایمپورت ولت . اگر جدید هستید فقط کامند روم رو بزنید برای ساخت ولت جدید
 
 برای ساخت کیف دو کامند وجود داره . یا اگر از قبل ولتی دارید . یا اگر میخواید جدید بسازید
 
-اگر از قبل ولت دارید
+اگر از قبل ولت دارید ( اگر ولت نداری از قبل اینو نزن کامند بعدی رو بزن ) ***
 
 ```
 
 go run cmd/main.go keys import  --accountName mySequencerAccount --accountPath $HOME/.tracks/junction-accounts/keys --mnemonic 'your-mnemonic-phrase'
 ```
 
-otherwise, generate a new key with this command and save its result (Mnemonic & Address)
 
-ساخت ولت جدید
+ساخت ولت جدید ************* ( جدید هستید اینو بزنید )
 
 ```
 
